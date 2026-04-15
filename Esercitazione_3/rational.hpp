@@ -178,6 +178,7 @@ public:
     }
 };
 
+
 template<typename I>
 std::ostream&
 operator<<(std::ostream& os, const rational<I>& r)
