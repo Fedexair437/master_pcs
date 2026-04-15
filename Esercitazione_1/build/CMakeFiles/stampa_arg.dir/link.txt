@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Wl,--dependency-file=CMakeFiles/stampa_arg.dir/link.d CMakeFiles/stampa_arg.dir/stampa_arg.cpp.o -o stampa_arg

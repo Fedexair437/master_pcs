@@ -1,0 +1,4 @@
+/home/pcsdocker/Data/master_pcs/Esercitazione 1/build/CMakeFiles/stampa_arg.dir
+/home/pcsdocker/Data/master_pcs/Esercitazione 1/build/CMakeFiles/media_temperature.dir
+/home/pcsdocker/Data/master_pcs/Esercitazione 1/build/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/master_pcs/Esercitazione 1/build/CMakeFiles/rebuild_cache.dir
