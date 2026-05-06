@@ -1,0 +1,7 @@
+Eseguendo il codice confronto_tempi.cpp su 400 vettori ed incollando i risultanti tempi sul codice matlab grafici_confronto_tempi.m emerge che quicksort diventa consistenemente più rapido
+di insertionsort (l'algoritmo quadratico più veloce) solo a partire dalla dimensione 150 circa, differenza visibile più chiaramente nel grafico con scala logaritmica sulle y.
+Ciò è comunque in contrasto con quanto riscontrato dai miei compagni di corso, per cui questo scambio avviene solitamente intorno alla dimensione 20 o 30. Questa differenza potrebbe
+essere dovuta al fatto che il mio PC è abbastanza vecchio e di seconda mano quindi le sue prestazioni possono non corrispondere all'ottimo.
+Ciononostante ho implementato come richiesto la versione modificata di quicksort (chiamata quick_sort2) che utilizza, al di sotto della taglia di 150, insertionsort (in particolare
+insertion_sort2 per poter prendere in input anche i limiti destro e sinistro propri di quicksort). Ho poi sostituito il quicksort normale nel test unitario con quello modificato
+per verificare il suo corretto funzionamento.
